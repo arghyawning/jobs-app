@@ -2,7 +2,7 @@
 
 Deployed on Expo: [`exp://u.expo.dev/update/c5f5e366-1568-491a-8e7b-acfe6990fb1b`](exp://u.expo.dev/update/c5f5e366-1568-491a-8e7b-acfe6990fb1b)
 
-<!-- 
+<!--
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory. -->
 
 <!-- ## 🚀 How to use
@@ -15,3 +15,8 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router) -->
+
+---
+
+Done for fun as a personal project. <br>
+Reference: https://youtu.be/mJ3bGvy0WAY
